@@ -1,0 +1,4 @@
+package AccountClass
+
+class UserAccountClass {
+}
